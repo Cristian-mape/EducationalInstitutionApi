@@ -1,0 +1,12 @@
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Domain\bin\Debug\net8.0\EducationalInstitution.Domain.deps.json
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Domain\bin\Debug\net8.0\EducationalInstitution.Domain.dll
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Domain\bin\Debug\net8.0\EducationalInstitution.Domain.pdb
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Domain\obj\Debug\net8.0\EducationalInstitution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Domain\obj\Debug\net8.0\EducationalInstitution.Domain.AssemblyInfoInputs.cache
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Domain\obj\Debug\net8.0\EducationalInstitution.Domain.AssemblyInfo.cs
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Domain\obj\Debug\net8.0\EducationalInstitution.Domain.csproj.CoreCompileInputs.cache
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Domain\obj\Debug\net8.0\EducationalInstitution.Domain.sourcelink.json
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Domain\obj\Debug\net8.0\EducationalInstitution.Domain.dll
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Domain\obj\Debug\net8.0\refint\EducationalInstitution.Domain.dll
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Domain\obj\Debug\net8.0\EducationalInstitution.Domain.pdb
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Domain\obj\Debug\net8.0\ref\EducationalInstitution.Domain.dll
