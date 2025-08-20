@@ -1,0 +1,16 @@
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\bin\Debug\net8.0\EducationalInstitution.Application.deps.json
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\bin\Debug\net8.0\EducationalInstitution.Application.dll
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\bin\Debug\net8.0\EducationalInstitution.Application.pdb
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\bin\Debug\net8.0\EducationalInstitution.Domain.dll
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\bin\Debug\net8.0\EducationalInstitution.Domain.pdb
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\obj\Debug\net8.0\EducationalInstitution.Application.csproj.AssemblyReference.cache
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\obj\Debug\net8.0\EducationalInstitution.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\obj\Debug\net8.0\EducationalInstitution.Application.AssemblyInfoInputs.cache
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\obj\Debug\net8.0\EducationalInstitution.Application.AssemblyInfo.cs
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\obj\Debug\net8.0\EducationalInstitution.Application.csproj.CoreCompileInputs.cache
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\obj\Debug\net8.0\EducationalInstitution.Application.sourcelink.json
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\obj\Debug\net8.0\Educatio.2BE3C561.Up2Date
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\obj\Debug\net8.0\EducationalInstitution.Application.dll
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\obj\Debug\net8.0\refint\EducationalInstitution.Application.dll
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\obj\Debug\net8.0\EducationalInstitution.Application.pdb
+C:\DevelopSoftwareCode\PruebasTecnicas\EducationalInstitution\EducationalInstitution.Application\obj\Debug\net8.0\ref\EducationalInstitution.Application.dll
