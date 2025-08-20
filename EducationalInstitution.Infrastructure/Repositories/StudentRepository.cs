@@ -1,5 +1,7 @@
 ﻿using EducationalInstitution.Domain.Entities;
 using EducationalInstitution.Domain.Interfaces.Repositories;
+using EducationalInstitution.Infrastructure.Data.Context;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,9 +12,9 @@ namespace EducationalInstitution.Infrastructure.Repositories
 {
     public class StudentRepository : IStudentRepository
     {
-        private readonly EducationalContext _context;
+        private readonly Context _context;
 
-        public StudentRepository(EducationalContext context)
+        public StudentRepository(Context context)
         {
             _context = context;
         }
