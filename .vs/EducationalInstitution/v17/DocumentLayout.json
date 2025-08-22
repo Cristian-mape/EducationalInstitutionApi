@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6129F858-3EAF-48F4-BDCA-6A76402C8ACB}|EducationalInstitution.API\\EducationalInstitution.API.csproj|c:\\developsoftwarecode\\pruebastecnicas\\educationalinstitutionapi\\educationalinstitution.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6129F858-3EAF-48F4-BDCA-6A76402C8ACB}|EducationalInstitution.API\\EducationalInstitution.API.csproj|solutionrelative:educationalinstitution.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 166,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EducationalInstitution.API\\appsettings.json",
+              "ToolTip": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.API\\appsettings.json",
+              "RelativeToolTip": "EducationalInstitution.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T23:18:24.674Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
@@ -66,6 +85,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
