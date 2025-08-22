@@ -1,8 +1,13 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "EducationalInstitution.API",
-    "version": "1.0"
+    "title": "Educational Institution API",
+    "description": "API REST para gestión de institución educativa con autenticación JWT",
+    "contact": {
+      "name": "Educational Institution",
+      "email": "admin@educational.com"
+    },
+    "version": "v1"
   },
   "paths": {
     "/api/Auth/login": {
@@ -1568,6 +1573,19 @@
         "type": "integer",
         "format": "int32"
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "Encabezado de autorización JWT usando el esquema Bearer. Ejemplo: \"Authorization: Bearer {token}\"",
+        "name": "Authorization",
+        "in": "header"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }

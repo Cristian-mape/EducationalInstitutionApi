@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.API\\EducationalInstitution.API.csproj": {}
+    "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.API\\EducationalInstitution.API.csproj": {}
   },
   "projects": {
-    "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.API\\EducationalInstitution.API.csproj": {
+    "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.API\\EducationalInstitution.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.API\\EducationalInstitution.API.csproj",
+        "projectUniqueName": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.API\\EducationalInstitution.API.csproj",
         "projectName": "EducationalInstitution.API",
-        "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.API\\EducationalInstitution.API.csproj",
+        "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.API\\EducationalInstitution.API.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.API\\obj\\",
+        "outputPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj": {
-                "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj"
+              "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj": {
+                "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj"
               },
-              "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj": {
-                "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj"
+              "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj": {
+                "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj"
               },
-              "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Infrastructure\\EducationalInstitution.Infrastructure.csproj": {
-                "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Infrastructure\\EducationalInstitution.Infrastructure.csproj"
+              "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Infrastructure\\EducationalInstitution.Infrastructure.csproj": {
+                "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Infrastructure\\EducationalInstitution.Infrastructure.csproj"
               }
             }
           }
@@ -62,6 +62,10 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
@@ -93,14 +97,14 @@
         }
       }
     },
-    "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj": {
+    "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj",
+        "projectUniqueName": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj",
         "projectName": "EducationalInstitution.Application",
-        "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj",
+        "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Application\\obj\\",
+        "outputPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -122,8 +126,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj": {
-                "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj"
+              "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj": {
+                "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj"
               }
             }
           }
@@ -181,14 +185,14 @@
         }
       }
     },
-    "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj": {
+    "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj",
+        "projectUniqueName": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj",
         "projectName": "EducationalInstitution.Domain",
-        "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj",
+        "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\obj\\",
+        "outputPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -247,14 +251,14 @@
         }
       }
     },
-    "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Infrastructure\\EducationalInstitution.Infrastructure.csproj": {
+    "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Infrastructure\\EducationalInstitution.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Infrastructure\\EducationalInstitution.Infrastructure.csproj",
+        "projectUniqueName": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Infrastructure\\EducationalInstitution.Infrastructure.csproj",
         "projectName": "EducationalInstitution.Infrastructure",
-        "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Infrastructure\\EducationalInstitution.Infrastructure.csproj",
+        "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Infrastructure\\EducationalInstitution.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Infrastructure\\obj\\",
+        "outputPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -276,8 +280,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj": {
-                "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj"
+              "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj": {
+                "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj"
               }
             }
           }

@@ -720,11 +720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj",
+      "projectUniqueName": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj",
       "projectName": "EducationalInstitution.Application",
-      "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj",
+      "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Application\\obj\\",
+      "outputPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -746,8 +746,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj": {
-              "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj"
+            "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj": {
+              "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj"
             }
           }
         }

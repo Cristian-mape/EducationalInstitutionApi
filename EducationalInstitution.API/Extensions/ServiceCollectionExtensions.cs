@@ -17,23 +17,19 @@ namespace EducationalInstitution.API.Extensions
     {
         public static IServiceCollection AddApplicationServices(this IServiceCollection services, IConfiguration configuration)
         {
-            // Database
-            services.AddDbContext<Context>(options =>
+            services.AddDbContext<EducationalContext>(options =>
                 options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 
-            // AutoMapper
             services.AddAutoMapper(cfg => {
                 cfg.AddProfile<MappingProfile>();
             });
 
-            // Repositories
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IStudentRepository, StudentRepository>();
             services.AddScoped<IProfessorRepository, ProfessorRepository>();
             services.AddScoped<ICourseRepository, CourseRepository>();
             services.AddScoped<IQualificationRepository, QualificationRepository>();
 
-            // Services
             services.AddScoped<IAuthService, AuthService>();
             services.AddScoped<ITokenService, JwtTokenService>();
             services.AddScoped<StudentService>();
@@ -104,10 +100,10 @@ namespace EducationalInstitution.API.Extensions
                     }
                 });
 
-                // JWT Security Definition
+                // Definición de seguridad JWT
                 c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
                 {
-                    Description = "JWT Authorization header using the Bearer scheme. Example: \"Authorization: Bearer {token}\"",
+                    Description = "Encabezado de autorización JWT usando el esquema Bearer. Ejemplo: \"Authorization: Bearer {token}\"",
                     Name = "Authorization",
                     In = ParameterLocation.Header,
                     Type = SecuritySchemeType.ApiKey,
@@ -130,7 +126,7 @@ namespace EducationalInstitution.API.Extensions
                     }
                 });
 
-                // Include XML comments
+                // Incluir comentarios XML
                 var xmlFile = $"{System.Reflection.Assembly.GetExecutingAssembly().GetName().Name}.xml";
                 var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
                 if (File.Exists(xmlPath))

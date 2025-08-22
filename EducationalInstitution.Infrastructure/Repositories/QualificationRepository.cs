@@ -12,9 +12,9 @@ namespace EducationalInstitution.Infrastructure.Repositories
 {
     public class QualificationRepository : IQualificationRepository
     {
-        private readonly Context _context;
+        private readonly EducationalContext _context;
 
-        public QualificationRepository(Context context)
+        public QualificationRepository(EducationalContext context)
         {
             _context = context;
         }

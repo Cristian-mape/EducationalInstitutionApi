@@ -12,9 +12,9 @@ namespace EducationalInstitution.Infrastructure.Repositories
 {
     public class UserRepository : IUserRepository
     {
-        private readonly Context _context;
+        private readonly EducationalContext _context;
 
-        public UserRepository(Context context)
+        public UserRepository(EducationalContext context)
         {
             _context = context;
         }
