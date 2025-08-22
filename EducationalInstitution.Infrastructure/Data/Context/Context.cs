@@ -13,7 +13,7 @@ namespace EducationalInstitution.Infrastructure.Data.Context
 {
     public class Context : DbContext
     {
-        public Context(DbContextOptions<EducationalContext> options) : base(options)
+        public Context(DbContextOptions<Context> options) : base(options)
         {
         }
 

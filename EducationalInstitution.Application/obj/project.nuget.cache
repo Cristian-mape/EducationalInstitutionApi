@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WNFkdaBN48I=",
+  "dgSpecHash": "1H97b+h4qz0=",
   "success": true,
-  "projectFilePath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj",
+  "projectFilePath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Application\\EducationalInstitution.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj": {}
+    "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj": {}
   },
   "projects": {
-    "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj": {
+    "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj",
+        "projectUniqueName": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj",
         "projectName": "EducationalInstitution.Domain",
-        "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj",
+        "projectPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\EducationalInstitution.Domain.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitution\\EducationalInstitution.Domain\\obj\\",
+        "outputPath": "C:\\DevelopSoftwareCode\\PruebasTecnicas\\EducationalInstitutionApi\\EducationalInstitution.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,5 +1,7 @@
 ﻿using EducationalInstitution.Domain.Entities;
 using EducationalInstitution.Domain.Interfaces.Repositories;
+using EducationalInstitution.Infrastructure.Data.Context;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
